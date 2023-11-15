@@ -1,0 +1,8 @@
+numpy==1.18.1
+opencv-python
+pyopengl
+pyassimp
+scipy
+pypng
+pyyaml
+glumpy
